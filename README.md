@@ -1,7 +1,7 @@
 # market-watch-issues
 This repo is for issue tracking only.
 
-[EVE Market Watch](https://evemarketwach.com)
+[EVE Market Watch](https://evemarketwatch.com)
 
 ## Opening a new issue
 
