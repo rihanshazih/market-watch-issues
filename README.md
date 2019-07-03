@@ -9,7 +9,7 @@ Please use the search function before opening a new issue (be sure to include cl
 
 To open a new issue click on one of the following headers:
 
-### [Report a new bug](https://github.com/rihanshazih/market-watch-issues-issues/issues/new?template=bug.md)
+### [Report a new bug](https://github.com/rihanshazih/market-watch-issues/issues/new?template=bug.md)
 
 Examples:
 
